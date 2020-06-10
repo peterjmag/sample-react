@@ -1,5 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+TEST.
+
 # Getting Started #
 
 These steps will get this sample application running for you using DigitalOcean.
@@ -10,7 +12,7 @@ These steps will get this sample application running for you using DigitalOcean.
 
 * Docker must be [installed locally](https://docs.docker.com/install/) on your machine, unless you choose to build remotely via Github Actions (beyond the scope of this README)
 * You need a DigitalOcean account. If you don't already have one, you can sign up at https://cloud.digitalocean.com/registrations/new
-    
+
 
 ## Installing App Sail ##
 
@@ -57,7 +59,7 @@ When you no longer need this sample application running live, you can delete it 
 1. Choose "App Config"->"Show More"
 1. Select "Delete", type your app's name, and click "Delete App".
 
-This will delete the app and destroy any underlying DigitalOcean Droplets. 
+This will delete the app and destroy any underlying DigitalOcean Droplets.
 
 **Note: If you don't delete your app, charges for the use of DigitalOcean Droplets will continue to accrue. Also, even if you delete your app, a new push to your sample-nodejs repo on Github will trigger a new deploy which will result in DigitalOcean charges.**
 
